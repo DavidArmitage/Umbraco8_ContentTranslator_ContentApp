@@ -1,15 +1,3 @@
------------------------------------------------
-Umbraco8 ContentSpinner ContentApp
------------------------------------------------
-
-This is a content app to assist with translating content. This is a great tool for content writers who write for multiple language sites. The app makes use of Google Translate's API.
-Users are required to create their own API Key.
-
-For trial purposes I have added an API key with some credits. Once you have reviewed the app please create your own API key.
-
-Further documentation can be found here...
-https://github.com/DavidArmitage/Umbraco8_ContentTranslator_ContentApp/blob/master/ReadMe.txt
-
 -------------------------------------
 CONFIGURATION INSTRUCTIONS
 -------------------------------------
@@ -48,9 +36,11 @@ If you need help with this, please don’t hesitate to drop me an email at.
 david@recsitedesign.com
 
 
-PLEASE SUPPORT THIS APP MY UP VOTING 
+PLEASE SHOW YOUR APPRECIATION
 -------------------------------------
-If you like this content app then please feel free to show your appreciation by voting.
+If you like this content app then please feel free to show your appreciation by voting and leaving comments here.
+https://our.umbraco.com/packages/backoffice-extensions/content-translator-content-app/
+
 
 
 WHERE TO REPORT ISSUES
